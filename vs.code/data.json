@@ -1,0 +1,42 @@
+{
+    "jobTitle":["Front-End Dev"],
+    "About": [
+        {
+            "Name": "Khanya Pupuma",
+            "Age" : "18",
+            "Gender" : "Male"
+        }
+    ],
+    "education":[
+        {
+            "Highest-level":"High school Exemption",
+            "School": "Ndabankulu S.S.S"
+        }
+    ],
+    "experiences":[
+        {
+            "With Coding": "6 month coding experience, with 6 months internship "
+        }
+    ],
+    "skills":[
+        {
+            "Coding":"HTML,CSS and JavaScript",
+            "Academic": "Mathematics,Physical Sciences,Life Sciences,Agricultural Sciences,English(FAL),IsiXhosa(Home)"
+            
+        }
+    ],
+    "testimonials":[
+        {
+           "Simanye Somdaka" : "Khanya is a hard worker with a passionate heart",
+           "Yakupha Ntontshini": "Khanya is very helpful and all into his work 24/7",
+           "Thuthuza Poswayo" : "Pupuma has an agile and graceful approach to his work"
+        }
+        ],
+    "projects":[{
+        "firstProj":"Calculator",
+        "secondProj" : "BMI Calculator",
+        "thirdProj" : "E-commerce "
+        
+    }]
+
+}

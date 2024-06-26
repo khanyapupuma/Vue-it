@@ -9,18 +9,18 @@
     ],
     "education":[
         {
-            "Highest-level":"High school Exemption",
+            "Highest-level":"National Senior Certificate",
             "School": "Ndabankulu S.S.S"
         }
     ],
     "experiences":[
         {
-            "With Coding": "6 month coding experience, with 6 months internship "
+            "With Coding": "3 month coding experience"
         }
     ],
     "skills":[
         {
-            "Coding":"HTML,CSS and JavaScript",
+            "Coding":"HTML, CSS, JavaScript and Vue.JS",
             "Academic": "Mathematics,Physical Sciences,Life Sciences,Agricultural Sciences,English(FAL),IsiXhosa(Home)"
             
         }
@@ -33,10 +33,26 @@
         }
         ],
     "projects":[{
-        "firstProj":"Calculator",
-        "secondProj" : "BMI Calculator",
-        "thirdProj" : "E-commerce "
-        
-    }]
+        "name":"Calculator",
+        "description":"A calculator designed to replicate a common calculator, it easily allows for small and handful calculations.",
+        "github":"https://github.com/khanyapupuma/calculator.git",
+        "vercel":"https://calculator-six-ruddy.vercel.app/"
+    },{
+        "name":"ID Identifier",
+        "description":"A webpage designed for the identification of a legit and proper South African Identity Document(ID), it  can tell the difference between a citizen,refugee or foreign national and also tell if ID owner is male or female.",
+        "github":"https://github.com/khanyapupuma/Assignment2.git",
+        "vercel":""
+    },{
+        "name":"E-Commerce",
+        "description":"A multi-paged Anime based e-commerce website that allows for the purchase and reading of mangas like Jujutsu Kaisen.",
+        "github":"https://github.com/khanyapupuma/E-commerce.git",
+        "vercel":"https://e-commerce-red-xi-76.vercel.app/index.html"
+    },{
+        "name":"Temparature Converter",
+        "description":"A webpage containing a calculator that assists for the user to convert Celsius-to-Fahrenheit and also Fahrenheit-to-Celsius ",
+        "github":"https://github.com/khanyapupuma/temp_converter-calc.git",
+        "vercel":"https://temp-converter-calc.vercel.app/"
+    }
+]
 
 }

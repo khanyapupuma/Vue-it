@@ -1,5 +1,12 @@
 {
-    "jobTitle":["Junior Fullstack Web Dev"],
+    "jobTitle":[
+        {
+       "title" :"Junior Fullstack Web Dev"
+        },
+        {
+            "title": "Software Dev"
+        }
+    ],
     "About": [
         {
             "Name": "Khanya Pupuma",

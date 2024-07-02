@@ -1,95 +1,110 @@
 {
     "jobTitle":[
         {
-       "title" :"Junior Fullstack Web Deveveloper"
+       "title" :"Junior Fullstack Web Developer"
         },
         {
-            "title": " aspiring Software Developer"
+            "title": " Aspiring Software Developer"
         }
     ],
     "About": [
         {
-            "Name": "Khanya Pupuma",
-            "Age" : "18",
-            "Gender" : "Male"
+            "Name": "Khanya Pupuma"   
+        },{
+            "Intro": "I'm an aspiring Web Developer and I'm on my journey to become a full fledged Web Dev that's a Fullstack developer that excels in both Back-end and Front-end development."
+        },
+        {
+            "Interest&passion": "I've been greatly interested in Science and Tech for as long as I can remember. I am very passionate in learning new things and debating in topics that I consider to be interesting. I always try my best to always deliver what is expected of me. My wish is to be part of a company that will allow me grow further as a Dev"
         }
     ],
     "education":[
         {
-            "Highest-level":"National Senior Certificate",
-            "School": "Ndabankulu S.S.S",
-            "Coding": "Attending Life Choices Coding Academy"
-            
-        }
-    ],
-    "experiences":[
+           "id": 1,
+           "img": "https://khanyapupuma.github.io/all-images/all-images/Images/NDK.jpg",
+           "School": "Ndabankulu S.S.S",
+           "Attendence": "2021-2023"
+             
+        },
         {
-            "Coding": "I've become more experienced and more proficient in Fullstack Development.In my 3 months as a student in Life Choices as a coder I have submitted multiple works and projects which are available in my GitHub.",
-            "Communication": "Initially a more reserved and timid person, my time in Life Choices have allowed me to breakthrough from some of those self-imposed limitations and I've become more relaxed when speakiing to others. My awkwardness having been removed as I've participated in multiple group activities with unknown people and have grown to easily approach others in regards to work. "
-            
+            "id": 2,
+            "img": "https://khanyapupuma.github.io/all-images/all-images/Images/LC.png",
+            "Attendence": "02/Apr/2024-present"
+             
         }
     ],
     "skills":[
         {
-            "Coding":"I've been studying at Life Choices's coding academy where I have attended for 3 months since 02 April 2024-present. I've gained deeper understanding in the coding languages both front-end and back-end, my skills as a Fullstack Web Dev have greatly increased a lot and I have become familier with tools such as HTML,CSS,Bootstrap,Javascript and Vue.JS "
+            "id": 1,
+            "image": "https://khanyapupuma.github.io/all-images/all-images/Images/",
+            "word": "HTML"
+        },
+        {
+            "id": 2,
+            "image": "https://khanyapupuma.github.io/all-images/all-images/Images/",
+            "word": "CSS"
             
-            
+        },
+        {
+            "id":3,
+            "image": "https://khanyapupuma.github.io/all-images/all-images/Images/",
+            "word": "JAVASCRIPT"
+        },
+        {
+            "id": 4,
+            "image":"https://khanyapupuma.github.io/all-images/all-images/Images/",
+            "word": "VUE."
         }
     ],
     "testimonials":[
         {  "id" : 1,
-           "profile": "",
+           "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/1000089548.jpg",
            "name":"Simanye Somdaka",
-           "Relationship": "Colleague",
            "Comment"   : "Working with Khanya has been a game-changer for me. His dedication to clean, efficient code has significantly improved our project performance and scalability. He's a valuable asset to any development team."
         },
         {
             "id": 2,
+            "profile":"https://khanyapupuma.github.io/all-images/all-images/Images/IMG_5290.jpg",
             "name": "Yakupha Ntontshini",
-            "Relationship":" Colleague ",
             "Comment":"Khanya Pupuma is an exceptional developerwith a keen eye for detail. His ability to tackle complex problems and deliver high-quality solutions is truly impressive.It's always a pleasure to work alongside him."
         },
         {  "id" : 3,
-           "profile": "",
+           "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_092724.jpg",
            "name":"Daniel Umetor",
-           "Relationship": "Colleague",
            "Comment"   : "Khanya's contributions in my team have been invaluable.His depth in knowlegde in software development coupled with his collaborative spirit has greatly contributed to his projects. I would highly recommend him to anyone seeking a talented and reliable developer."
         },
         {
             "id" :  4,
-            "profile": "",
+            "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_093604.jpg",
             "name":  "Keira Kistensamy",
-            "Relationship":"Colleague",
             "Comment"  : "I've had the pleasure of working with Pupuma on several projects, and each timehe has exceeded expectations. His professionalism, technical expertise, and ability t communicate effectively make him an invaluable teammate. I look forward to working with him again in the future."
         },
         {
             "id" : 5 ,
-            "profile": "",
+            "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_092826.jpg",
             "name":  "Erin Williams" ,
-            "Relationship":"Colleague",
             "Comment" : "Khanya is very reliable and skilled developer who consistently makes results. His strong problem-solving skills and proactive approach make him a standout member on teams.   I highly recommend him for any development project."
         } 
            ],
     "projects":[{
-        "id": "1",
+        "id": 1,
         "name":"Calculator",
-        "description":"A calculator designed to replicate a common calculator, it easily allows for small and handful calculations.",
+        "description":"A calculator designed to replicate a cell phone calculator, it easily allows for small and handful calculations.",
         "github":"https://github.com/khanyapupuma/calculator.git",
         "vercel":"https://calculator-six-ruddy.vercel.app/"
     },{ 
-        "id": "2",
+        "id": 2,
         "name":"To-do list",
         "description":"A web application that allows users to write and create a short list of things too do for the sake of memory assistance.",
         "github":"https://github.com/khanyapupuma/To-do-list",
         "vercel":"https://to-do-list-flax-chi.vercel.app/"
     },{ 
-        "id": "3",
+        "id": 3,
         "name":"E-Commerce",
-        "description":"A multi-paged Anime based e-commerce website that allows for the purchase and reading of mangas like Jujutsu Kaisen.",
+        "description":"A multi-paged Anime based e-commerce website that allows for the purchasing of mangas.",
         "github":"https://github.com/khanyapupuma/E-commerce.git",
         "vercel":"https://e-commerce-red-xi-76.vercel.app/index.html"
     },{  
-        "id": "4",
+        "id": 4,
         "name":"Temparature Converter",
         "description":"A webpage containing a calculator that assists for the user to convert Celsius-to-Fahrenheit and also Fahrenheit-to-Celsius ",
         "github":"https://github.com/khanyapupuma/temp_converter-calc.git",
